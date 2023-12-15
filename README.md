@@ -28,6 +28,7 @@
 <img alt="jquery" src="https://img.shields.io/badge/jquery-FFF?logo=jquery&labelColor=1572B6&logoColor=white" height="25px">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFF?logo=JavaScript&labelColor=yellow&logoColor=white" height="25px">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-FFF?logo=Bootstrap&labelColor=660066&logoColor=white" height="25px">
+<img alt="React" src="https://img.shields.io/badge/React-FFF?logo=React&labelColor=660066&logoColor=white" height="25px">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-FFF?logo=Tailwindcss&labelColor=660066&logoColor=white" height="25px">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-FFF?logo=mongodb&labelColor=49BD77&logoColor=white" height="25px">
 <img alt="VS-Code" src="https://img.shields.io/badge/VS%20Code-FFF?logo=visualstudiocode&labelColor=186BAB&logoColor=white" height="25px">
