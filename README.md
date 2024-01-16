@@ -9,7 +9,7 @@
 
 ## :woman_technologist: About Me
 - 🧠 I’m currently studying Computer Systems Engineering at [**Palestine Technical University - Kadoorie**.](https://ptuk.edu.ps/)
-- 👩‍💻 I'm currently learning React.js.
+- 👩‍💻 I'm currently learning Nodejs.
 - 🗂️ All of my projects are available at [**My repositories**.](https://github.com/Tasneemghazal?tab=repositories)
 - 📫 How to reach me <a href="mailto:tasneemgazal5@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red"></a>
 - ⚡ Fun fact: :soccer: :badminton: :book:.
@@ -17,25 +17,12 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1100px" height="95px">
 
 ## :hammer_and_wrench: Languages and Tools
-<div align="center">
-<img alt="R" src="https://img.shields.io/badge/R-FFF?logo=R&labelColor=0091FF&logoColor=white" height="25px">
-<img alt="Python" src="https://img.shields.io/badge/Python-FFF?logo=python&labelColor=3B77A8&logoColor=white" height="25px">
-<img alt="Java" src="https://img.shields.io/badge/Java-FFF?logo=python&labelColor=0066CC&logoColor=white" height="25px">
-<img alt="C++" src="https://img.shields.io/badge/C++-FFF?logo=cplusplus&labelColor=1B7CDE&logoColor=white" height="25px">
-<img alt="Git"! src="https://img.shields.io/badge/Git-FFF?logo=git&labelColor=F05032&logoColor=white" height="25px">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-FFF?logo=html5&labelColor=E34F26&logoColor=white" height="25px">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-FFF?logo=css3&labelColor=1572B6&logoColor=white" height="25px">
-<img alt="jquery" src="https://img.shields.io/badge/jquery-FFF?logo=jquery&labelColor=1572B6&logoColor=white" height="25px">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFF?logo=JavaScript&labelColor=yellow&logoColor=white" height="25px">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-FFF?logo=Bootstrap&labelColor=660066&logoColor=white" height="25px">
-<img alt="React" src="https://img.shields.io/badge/React-FFF?logo=React&labelColor=660066&logoColor=white" height="25px">
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-FFF?logo=Tailwindcss&labelColor=660066&logoColor=white" height="25px">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-FFF?logo=mongodb&labelColor=49BD77&logoColor=white" height="25px">
-<img alt="VS-Code" src="https://img.shields.io/badge/VS%20Code-FFF?logo=visualstudiocode&labelColor=186BAB&logoColor=white" height="25px">
-<img alt="visualstudio" src="https://img.shields.io/badge/atom-FFF?logo=atom&labelColor=1572B6&logoColor=white" height="25px">
-  
-</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,cpp,java,python,javascript,jquery,php,html,css,tailwindcss,bootstrap,react,nodejs,mysql,mongodb,postman,git,vscode,atom&perline=8" />
+  </a>
+</p>
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1100px" height="95px">
