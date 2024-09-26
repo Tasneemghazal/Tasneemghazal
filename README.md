@@ -8,11 +8,11 @@
 </div>
 
 ## :woman_technologist: About Me
-- 🧠 I’m currently studying Computer Systems Engineering at [**Palestine Technical University - Kadoorie**.](https://ptuk.edu.ps/)
-- 👩‍💻 I'm currently learning Nodejs.
+- 🧠 I'm Computer Systems Engineer recently graduate from [**Palestine Technical University - Kadoorie**.](https://ptuk.edu.ps/)
+- 👩‍💻 Software Engineer| Frontend developer (React.js)| Backend developer (Node.js) 
 - 🗂️ All of my projects are available at [**My repositories**.](https://github.com/Tasneemghazal?tab=repositories)
 - 📫 How to reach me <a href="mailto:tasneemgazal5@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red"></a>
-- ⚡ Fun fact: :soccer: :badminton: :book:.
+- ⚡ “The more difficult the victory, the greater the happiness in winning.” – Pelé
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1100px" height="95px">
 
